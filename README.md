@@ -277,6 +277,11 @@ village  in the tamilnadu state of India,the temple is built in granite marbels.
 
 ![tem](./tem.png)
 
+## HTML Validator
+
+![html](./vali.png)
+
+
 
 ## Result:
 Thus The Web Is Developed To Show The Details of nallavur village.
